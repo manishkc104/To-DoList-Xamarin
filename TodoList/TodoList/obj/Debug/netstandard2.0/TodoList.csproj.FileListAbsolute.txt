@@ -1,0 +1,12 @@
+D:\Xamarin\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.deps.json
+D:\Xamarin\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.dll
+D:\Xamarin\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.pdb
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.csproj.CoreCompileInputs.cache
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.App.xaml.g.cs
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.MainPage.xaml.g.cs
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.Views.TodoItemPage.xaml.g.cs
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.Views.TodoListPage.xaml.g.cs
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfoInputs.cache
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfo.cs
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.dll
+D:\Xamarin\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.pdb
